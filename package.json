@@ -8,8 +8,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build": "vite build",
-    "preview": "vite preview",
-    "start": "vite preview"
+    "serve": "vite preview",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@mdi/font": "^7.2.96",
